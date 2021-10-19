@@ -54,11 +54,7 @@ yarn test
 
 Use Binance API (crypto currencies api) to obtain the current average price for a pair of currencies in an automated way and save it in some place.
 
-## API INFO
-
-<br>
-
-### /
+### API INFO / 
 
 ##### Request
 
